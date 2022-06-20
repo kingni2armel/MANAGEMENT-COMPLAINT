@@ -1,0 +1,8 @@
+.parent{
+    display: flex;
+    width: 15px !important;
+    justify-content: space-between;
+}
+.icon-cus{
+    font-size: 14px;
+}
